@@ -11,11 +11,11 @@ To conduct the analysis, the Kickstarter dataset was amended to add a column to 
 
 ![Year_Formula_SS.png](Screen_Shots/Year_Formula_SS.png)
 
-After I augmented the Kickstarter dataset, I created a pivot table and related chart (Theater Outcomes by Launch Date) to visualize the number of successful, failed, and canceled fundraising campaigns in the Theater Parent Category.
+After augmenting the Kickstarter dataset, I created a pivot table and related chart (Theater Outcomes by Launch Date) to visualize the number of successful, failed, and canceled fundraising campaigns in the Theater Parent Category.
 
 ![Pivot_Filters_SS.png](Screen_Shots/Pivot_Filters_SS.png)
 
-To drill into the data further, I segemented the Kickstarter dataset by fundraising Goal amounts for the Play Subcategory.  This was accomplished by creating a data table of successful, failed, and canceled Play fundraising campaigns by using the COUNTIFS formula.  The subset of Play data was compared by calculating the percentages of successful, failed, and canceled initiatives by Goal amount.  
+To drill into the data further, I segmented the Kickstarter dataset by fundraising Goal amounts for the Play Subcategory.  This was accomplished by creating a data table of successful, failed, and canceled Play fundraising campaigns by using the COUNTIFS formula.  The subset of Play data was compared by calculating the percentages of successful, failed, and canceled initiatives by Goal amount.  
 
 ![COUNTIFS_and_Percentage_SS.png](Screen_Shots/COUNTIFS_and_Percentage_SS.png)
 
