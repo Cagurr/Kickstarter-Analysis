@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Since the crowdfunding initiative for Louise's play Fever nearly met its fundraising goal.  Louise wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset, I visualized campaign outcomes based on their launch dates and their funding goals. 
+Since the crowdfunding initiative for Louise's play Fever nearly met its fundraising goal, Louise wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset, I visualized campaign outcomes based on their launch dates and their funding goals. 
 
 ### Purpose
 This report intends to illustrate the relative success of other theater-related fundraising initiatives.
