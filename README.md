@@ -45,7 +45,7 @@ Alternatively, the number of failed campaigns was not abnormally above average i
 
 Another interesting fact was discoverd after reviewing the Outcomes Based on Goal chart.  A project's success was not linearly correlated to the value of the project goal.  Based on the data, play-related fundraisers should aim for goal amounts between $1 and $15,000 or between $35,000 and $45,000.
 
-When segmented by goal amount, fundraisers under $5,000 were more likely to be successful, but their relative success tapered off as the goal amount increased.  Goals between $15,000 and $35,000 were more likely to fail than success as a percentage of total projects; however, this trend reverses itself between $35,000 and $45,000 where fundraising projects were more likely to be successful.  
+When segmented by goal amount, fundraisers under $5,000 were more likely to be successful, but their relative success tapered off as the goal amount increased.  Goals between $15,000 and $35,000 were more likely to fail than succeed as a percentage of total projects; however, this trend reverses itself between $35,000 and $45,000 where fundraising projects were more likely to be successful.  
 
 - What are some limitations of this dataset?
 
